@@ -1,0 +1,23 @@
+
+---
+
+### **2. 23_MultiEndpointScanner**  
+**Description:**  
+Monitors the availability and latency of multiple HTTP endpoints with concise output.
+
+#### **README.md**
+```markdown
+# MultiEndpointScanner - API Uptime Monitor
+
+MultiEndpointScanner pings a list of APIs and returns status codes and response times in clean tabular format.
+
+## Features
+- Bulk URL testing  
+- Logs latency and failures  
+- Timeout configuration  
+
+## Usage
+```bash
+git clone https://github.com/your-username/23_MultiEndpointScanner.git
+cd 23_MultiEndpointScanner
+python monitor.py
