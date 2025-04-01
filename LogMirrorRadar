@@ -1,0 +1,23 @@
+
+---
+
+### **3. 23_LogMirrorRadar**  
+**Description:**  
+Detects repeating patterns and alerts in log files based on frequency and keyword rules.
+
+#### **README.md**
+```markdown
+# LogMirrorRadar - Log Frequency & Pattern Detector
+
+LogMirrorRadar summarizes recurring log entries and reveals patterns, ideal for error investigation and monitoring.
+
+## Features
+- Finds top repeated lines  
+- Custom keyword scanning  
+- Visual log summaries  
+
+## Usage
+```bash
+git clone https://github.com/your-username/23_LogMirrorRadar.git
+cd 23_LogMirrorRadar
+python analyze.py
