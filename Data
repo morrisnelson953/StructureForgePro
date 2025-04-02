@@ -1,0 +1,23 @@
+
+---
+
+### **4. 23_LivePlotSync**  
+**Description:**  
+Visualizes incoming numerical data with real-time updates on a synced scrolling chart.
+
+#### **README.md**
+```markdown
+# LivePlotSync - Real-Time Data Plotter
+
+LivePlotSync transforms data streams into animated line charts for dashboards or performance monitoring.
+
+## Features
+- Matplotlib live chart  
+- Smooth scrolling  
+- Adjustable refresh speed  
+
+## Usage
+```bash
+git clone https://github.com/your-username/23_LivePlotSync.git
+cd 23_LivePlotSync
+python visualize.py
